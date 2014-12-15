@@ -7,7 +7,7 @@ Delete folders containing really long file paths (typically found in node_module
 
 ## usage
 
-`npm install` or `npm install -g`
+`npm install -g https://github.com/PointSource/windows-node-deps-deleter/archive/0.1.1.tar.gz`
 
 `wnddel dir1 <dir2 <... <dirN>>>`
 
