@@ -15,4 +15,4 @@ Delete folders containing really long file paths (typically found in node_module
 
 ## `wnddel` is pronounced "Wendel"
 
-<img src="http://assets.sbnation.com/assets/43177/wendelclark3.jpg" alt="Wendel Clark, Toronto Maple Leafs" name="wnddel is tough like Wendel Clark"/>
+![Wendel Clark, Toronto Maple Leafs](http://assets.sbnation.com/assets/43177/wendelclark3.jpg "wnddel is tough like Wendel Clark")
