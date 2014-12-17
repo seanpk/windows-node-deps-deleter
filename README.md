@@ -1,4 +1,4 @@
-# windows-node-deps-deleter
+# windows-node-deps-deleter (`wnddel`)
 
 Delete folders containing really long file paths (typically found in node_modules folders) from the command line on Windows.  
 (The default Windows Explorer and CMD.EXE tools fail to work on paths longer than a certain number of characters.)
