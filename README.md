@@ -12,3 +12,7 @@ Delete folders containing really long file paths (typically found in node_module
 `wnddel dir1 <dir2 <... <dirN>>>`
 
 [1]: https://www.npmjs.com/package/fs-extra
+
+## `wnddel` is pronounced "Wendel"
+
+<img src="http://assets.sbnation.com/assets/43177/wendelclark3.jpg" alt="Wendel Clark, Toronto Maple Leafs" name="wnddel is tough like Wendel Clark"/>
