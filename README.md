@@ -5,14 +5,14 @@ Delete folders containing really long file paths (typically found in node_module
 
 **NOTE**: If you need this functionality from your Node application, use [fs-extra][1] (that's what wnddel uses under the covers).
 
+[1]: https://www.npmjs.com/package/fs-extra
+
 ## usage
 
-`npm install -g https://github.com/PointSource/windows-node-deps-deleter/archive/0.1.1.tar.gz`
+`npm install -g windows-node-deps-deleter`
 
 `wnddel dir1 <dir2 <... <dirN>>>`
 
-[1]: https://www.npmjs.com/package/fs-extra
-
 ## `wnddel` is pronounced "Wendel"
 
-![Wendel Clark, Toronto Maple Leafs](http://4.bp.blogspot.com/_9Pzyu-v3Yn4/TNDga2wcvFI/AAAAAAAAABg/t5CNT-eyk5o/s640/01_+WendelClark.jpg "wnddel is tough like Wendel Clark")
+![Wendel Clark, Toronto Maple Leafs](http://4.bp.blogspot.com/_9Pzyu-v3Yn4/TNDga2wcvFI/AAAAAAAAABg/t5CNT-eyk5o/s640/01_+WendelClark.jpg "wnddel is tough like Wendel Clark and clears away your unwanted node_modules trees")
